@@ -1,0 +1,159 @@
+2026-10-13 13:06:01 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:01 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:01 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-13 13:06:01 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:01 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-13 13:06:01 WARNING zora.bot: ETH/USDT data is stale (366 min old); skipping this cycle
+2026-10-13 13:06:01 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-13 13:06:01 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:01 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-13 13:06:01 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-13 13:06:01 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-13 13:06:59 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:59 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:59 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-13 13:06:59 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:59 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-13 13:06:59 WARNING zora.bot: ETH/USDT data is stale (367 min old); skipping this cycle
+2026-10-13 13:06:59 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-13 13:06:59 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-13 13:06:59 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-13 13:06:59 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-13 13:06:59 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 03:46:17 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:46:17 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:46:17 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 03:46:17 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:46:17 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 03:46:17 WARNING zora.bot: ETH/USDT data is stale (361 min old); skipping this cycle
+2026-10-14 03:46:17 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 03:46:17 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:46:17 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-14 03:46:17 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-14 03:46:17 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 03:47:16 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:47:16 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:47:16 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 03:47:16 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:47:16 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 03:47:16 WARNING zora.bot: ETH/USDT data is stale (362 min old); skipping this cycle
+2026-10-14 03:47:16 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 03:47:16 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:47:16 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-14 03:47:16 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-14 03:47:16 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 03:48:07 ERROR   zora.risk: KILL SWITCH tripped: drawdown 25.00% >= 20.0% (peak 1000.00, now 750.00)
+2026-10-14 03:48:07 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 25.00% >= 4.0% (day start 1000.00, now 750.00)
+2026-10-14 03:48:07 ERROR   zora.risk: KILL SWITCH tripped: daily loss 6.00% >= 5.0% (day start 1000.00, now 940.00)
+2026-10-14 03:48:07 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 6.00% >= 4.0% (day start 1000.00, now 940.00)
+2026-10-14 03:48:07 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 4.12% >= 4.0% (day start 970.00, now 930.00)
+2026-10-14 03:48:07 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:48:08 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:48:08 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 03:48:08 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:48:08 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 03:48:08 WARNING zora.bot: ETH/USDT data is stale (363 min old); skipping this cycle
+2026-10-14 03:48:08 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 03:48:08 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:48:08 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-14 03:48:08 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-14 03:48:08 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 03:49:26 ERROR   zora.risk: KILL SWITCH tripped: drawdown 25.00% >= 20.0% (peak 1000.00, now 750.00)
+2026-10-14 03:49:26 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 25.00% >= 4.0% (day start 1000.00, now 750.00)
+2026-10-14 03:49:26 ERROR   zora.risk: KILL SWITCH tripped: daily loss 6.00% >= 5.0% (day start 1000.00, now 940.00)
+2026-10-14 03:49:26 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 6.00% >= 4.0% (day start 1000.00, now 940.00)
+2026-10-14 03:49:26 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 4.12% >= 4.0% (day start 970.00, now 930.00)
+2026-10-14 03:49:26 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:49:26 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:49:26 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 03:49:26 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:49:26 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 03:49:26 WARNING zora.bot: ETH/USDT data is stale (364 min old); skipping this cycle
+2026-10-14 03:49:26 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 03:49:26 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:49:26 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-14 03:49:26 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-14 03:49:26 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 03:50:31 ERROR   zora.risk: KILL SWITCH tripped: drawdown 25.00% >= 20.0% (peak 1000.00, now 750.00)
+2026-10-14 03:50:31 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 25.00% >= 4.0% (day start 1000.00, now 750.00)
+2026-10-14 03:50:31 ERROR   zora.risk: KILL SWITCH tripped: daily loss 6.00% >= 5.0% (day start 1000.00, now 940.00)
+2026-10-14 03:50:31 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 6.00% >= 4.0% (day start 1000.00, now 940.00)
+2026-10-14 03:50:31 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 4.12% >= 4.0% (day start 970.00, now 930.00)
+2026-10-14 03:50:31 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:50:31 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:50:31 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 03:50:31 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:50:31 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 03:50:31 WARNING zora.bot: ETH/USDT data is stale (366 min old); skipping this cycle
+2026-10-14 03:50:31 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 03:50:31 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:50:31 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-14 03:50:31 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-14 03:50:31 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 03:52:55 ERROR   zora.risk: KILL SWITCH tripped: drawdown 25.00% >= 20.0% (peak 1000.00, now 750.00)
+2026-10-14 03:52:55 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 25.00% >= 4.0% (day start 1000.00, now 750.00)
+2026-10-14 03:52:55 ERROR   zora.risk: KILL SWITCH tripped: daily loss 6.00% >= 5.0% (day start 1000.00, now 940.00)
+2026-10-14 03:52:55 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 6.00% >= 4.0% (day start 1000.00, now 940.00)
+2026-10-14 03:52:55 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 4.12% >= 4.0% (day start 970.00, now 930.00)
+2026-10-14 03:52:55 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:52:55 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:52:55 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 03:52:55 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:52:55 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 03:52:55 WARNING zora.bot: ETH/USDT data is stale (368 min old); skipping this cycle
+2026-10-14 03:52:55 INFO    zora.bot: [paper] KILL SWITCH tripped (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 03:52:55 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949
+2026-10-14 03:52:55 INFO    zora.bot: [live] OPENED BUY ETH/USDT 9.863500 @ 100.0000 SL 100.5759 TP 102.5949
+2026-10-14 03:52:55 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 100.5759 (stop-native) PnL +3.70 | equity 1003.70
+2026-10-14 03:52:55 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 03:56:28 ERROR   zora.risk: KILL SWITCH tripped: drawdown 25.00% >= 20.0% (peak 1000.00, now 750.00)
+2026-10-14 03:56:28 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 25.00% >= 4.0% (day start 1000.00, now 750.00)
+2026-10-14 03:56:28 ERROR   zora.risk: KILL SWITCH tripped: daily loss 6.00% >= 5.0% (day start 1000.00, now 940.00)
+2026-10-14 03:56:28 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 6.00% >= 4.0% (day start 1000.00, now 940.00)
+2026-10-14 03:56:28 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 4.12% >= 4.0% (day start 970.00, now 930.00)
+2026-10-14 03:56:28 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 03:56:28 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 03:56:28 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 03:56:28 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 03:56:28 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 03:56:28 WARNING zora.bot: ETH/USDT data is stale (371 min old); skipping new entries this cycle
+2026-10-14 03:56:28 ERROR   zora.risk: KILL SWITCH tripped: manual /kill
+2026-10-14 03:56:28 INFO    zora.bot: [paper] KILL SWITCH tripped: manual /kill (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 03:56:28 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 03:56:28 INFO    zora.bot: [live] OPENED BUY ETH/USDT 10.000000 @ 100.0000 SL 99.1924 TP 101.2114 (risk 1.00%)
+2026-10-14 03:56:28 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 99.1924 (stop-native) PnL -10.07 | equity 989.93
+2026-10-14 03:56:28 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 10:28:21 ERROR   zora.risk: KILL SWITCH tripped: drawdown 25.00% >= 20.0% (peak 1000.00, now 750.00)
+2026-10-14 10:28:21 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 25.00% >= 4.0% (day start 1000.00, now 750.00)
+2026-10-14 10:28:21 ERROR   zora.risk: KILL SWITCH tripped: daily loss 6.00% >= 5.0% (day start 1000.00, now 940.00)
+2026-10-14 10:28:21 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 6.00% >= 4.0% (day start 1000.00, now 940.00)
+2026-10-14 10:28:21 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 4.12% >= 4.0% (day start 970.00, now 930.00)
+2026-10-14 10:28:21 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:21 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:21 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 10:28:21 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:21 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 10:28:21 WARNING zora.bot: ETH/USDT data is stale (373 min old); skipping new entries this cycle
+2026-10-14 10:28:21 ERROR   zora.risk: KILL SWITCH tripped: manual /kill
+2026-10-14 10:28:21 INFO    zora.bot: [paper] KILL SWITCH tripped: manual /kill (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 10:28:21 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:21 INFO    zora.bot: [live] OPENED BUY ETH/USDT 10.000000 @ 100.0000 SL 99.1924 TP 101.2114 (risk 1.00%)
+2026-10-14 10:28:21 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 99.1924 (stop-native) PnL -10.07 | equity 989.93
+2026-10-14 10:28:21 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
+2026-10-14 10:28:39 ERROR   zora.risk: KILL SWITCH tripped: drawdown 25.00% >= 20.0% (peak 1000.00, now 750.00)
+2026-10-14 10:28:39 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 25.00% >= 4.0% (day start 1000.00, now 750.00)
+2026-10-14 10:28:39 ERROR   zora.risk: KILL SWITCH tripped: daily loss 6.00% >= 5.0% (day start 1000.00, now 940.00)
+2026-10-14 10:28:39 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 6.00% >= 4.0% (day start 1000.00, now 940.00)
+2026-10-14 10:28:39 ERROR   zora.risk: CIRCUIT BREAKER: new entries locked for 24.0h: daily drawdown 4.12% >= 4.0% (day start 970.00, now 930.00)
+2026-10-14 10:28:40 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:40 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:40 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 98.5151 (stop) PnL -30.76 | equity 969.24
+2026-10-14 10:28:40 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:40 INFO    zora.bot: [paper] CLOSED BUY ETH/USDT @ 102.5436 (take) PnL +8.93 | equity 1008.93
+2026-10-14 10:28:40 WARNING zora.bot: ETH/USDT data is stale (374 min old); skipping new entries this cycle
+2026-10-14 10:28:40 ERROR   zora.risk: KILL SWITCH tripped: manual /kill
+2026-10-14 10:28:40 INFO    zora.bot: [paper] KILL SWITCH tripped: manual /kill (equity 1000.00, peak 1000.00). No new entries until restart; open positions stay managed by their stops.
+2026-10-14 10:28:40 INFO    zora.bot: [paper] OPENED BUY ETH/USDT 9.863540 @ 101.4342 SL 100.5759 TP 102.5949 (risk 1.00%)
+2026-10-14 10:28:40 INFO    zora.bot: [live] OPENED BUY ETH/USDT 10.000000 @ 100.0000 SL 99.1924 TP 101.2114 (risk 1.00%)
+2026-10-14 10:28:40 INFO    zora.bot: [live] CLOSED BUY ETH/USDT @ 99.1924 (stop-native) PnL -10.07 | equity 989.93
+2026-10-14 10:28:40 INFO    zora.bot: [live] ETH/USDT entry refused: native stop/take-profit not confirmed for this market
